@@ -1,6 +1,8 @@
 
 
 <div>
+    <img src="https://raw.githubusercontent.com/Felipezcanal/simple-gcs-viewer/main/images/simple-gcs-viewer.gif" alt="demo-web">
+
 </div>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
