@@ -1,19 +1,20 @@
 
+<a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+</a>
+
+# Simple GCS Viewer
+
+This project is a simple monorepo for an application built with Python (FastAPI) and Vue.js (Vite) that allows you to browse and view folders and images stored in a Google Cloud Storage (GCS) bucket.
+
+
+## Demo
 
 <div>
     <img src="https://raw.githubusercontent.com/Felipezcanal/simple-gcs-viewer/main/images/simple-gcs-viewer.gif" alt="demo-web">
 
 </div>
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
-<hr />
 
-# Simple GCS Viewer
-
-This project is a simple monorepo for an application built with Python (FastAPI) and Vue.js (Vite) that allows you to browse and view folders and images stored in a Google Cloud Storage (GCS) bucket.
 
 ## Features
 
